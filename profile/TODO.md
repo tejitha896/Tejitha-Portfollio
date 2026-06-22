@@ -1,0 +1,5 @@
+- [x] Added video modal popup overlay for Demo Video buttons
+- [x] Fixed chatbot Demo Video button to use correct video element id (video3)
+- [x] Update Skills section to be divided into categories (Programming/Tools/MS Office)
+- [x] Restore my pic in Skills section
+- [x] Add MySQL to Tools category
